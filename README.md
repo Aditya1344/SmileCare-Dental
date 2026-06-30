@@ -1,6 +1,6 @@
 # 1. Extract the zip and open in VS Code
 
-cd smilecare-dental-ai
+cd smilecare-dental-ai-final
 
 npm install
 
