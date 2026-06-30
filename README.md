@@ -1,7 +1,11 @@
 # 1. Extract the zip and open in VS Code
+
 cd smilecare-dental-ai
+
 npm install
+
 node app.js
+
 Then open your browser → http://localhost:3000
 
 Thunder Client (inside VS Code)
